@@ -1,0 +1,14 @@
+C:\Users\Lenovo\source\repos\P127_Class_Inheritance\P127_Class_Inheritance\bin\Debug\netcoreapp3.1\P127_Class_Inheritance.exe
+C:\Users\Lenovo\source\repos\P127_Class_Inheritance\P127_Class_Inheritance\bin\Debug\netcoreapp3.1\P127_Class_Inheritance.deps.json
+C:\Users\Lenovo\source\repos\P127_Class_Inheritance\P127_Class_Inheritance\bin\Debug\netcoreapp3.1\P127_Class_Inheritance.runtimeconfig.json
+C:\Users\Lenovo\source\repos\P127_Class_Inheritance\P127_Class_Inheritance\bin\Debug\netcoreapp3.1\P127_Class_Inheritance.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\P127_Class_Inheritance\P127_Class_Inheritance\bin\Debug\netcoreapp3.1\P127_Class_Inheritance.dll
+C:\Users\Lenovo\source\repos\P127_Class_Inheritance\P127_Class_Inheritance\bin\Debug\netcoreapp3.1\P127_Class_Inheritance.pdb
+C:\Users\Lenovo\source\repos\P127_Class_Inheritance\P127_Class_Inheritance\obj\Debug\netcoreapp3.1\P127_Class_Inheritance.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\P127_Class_Inheritance\P127_Class_Inheritance\obj\Debug\netcoreapp3.1\P127_Class_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\P127_Class_Inheritance\P127_Class_Inheritance\obj\Debug\netcoreapp3.1\P127_Class_Inheritance.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\P127_Class_Inheritance\P127_Class_Inheritance\obj\Debug\netcoreapp3.1\P127_Class_Inheritance.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\P127_Class_Inheritance\P127_Class_Inheritance\obj\Debug\netcoreapp3.1\P127_Class_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\P127_Class_Inheritance\P127_Class_Inheritance\obj\Debug\netcoreapp3.1\P127_Class_Inheritance.dll
+C:\Users\Lenovo\source\repos\P127_Class_Inheritance\P127_Class_Inheritance\obj\Debug\netcoreapp3.1\P127_Class_Inheritance.pdb
+C:\Users\Lenovo\source\repos\P127_Class_Inheritance\P127_Class_Inheritance\obj\Debug\netcoreapp3.1\P127_Class_Inheritance.genruntimeconfig.cache
